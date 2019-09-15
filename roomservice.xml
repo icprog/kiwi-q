@@ -3,6 +3,4 @@
   <project name="kiwi-q/android_device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="lineage-17.0" />
   <project name="kiwi-pie/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="lineage-16.0" />
   <project name="kiwi-pie/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="lineage-16.0" />
-  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="ArrowOS-Devices" revision="arrow-10.0" />
-  <project name="android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="ArrowOS-Devices" revision="arrow-10.0" />
 </manifest>
