@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="kiwi-q/device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="lineage-17.0" />
+  <project name="kiwi-q/android_device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="lineage-17.0" />
   <project name="kiwi-q/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="lineage-17.0" />
   <project name="kiwi-q/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="lineage-17.0" />
 </manifest>
